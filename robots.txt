@@ -1,0 +1,7 @@
+# robots.txt for amit123103.github.io/SmartPortfolio
+# Update the domain paths below if you deploy to a different host.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://amit123103.github.io/SmartPortfolio/wiki/sitemap.xml
